@@ -2,7 +2,7 @@
 administration by using Docker
 
 ## Info
-![100](https://user-images.githubusercontent.com/94758944/147550170-21d69d68-0bf5-4856-8029-8f77b10f53d6.png)
+![image](https://user-images.githubusercontent.com/94758944/165586753-3cadd3fc-fe8d-4607-86e0-7c2e28215e1b.png)
 
 ## Info
 - mariadb
